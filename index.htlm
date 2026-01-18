@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>トレカ交換アプリ</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f5f7ff;
+      text-align: center;
+      padding: 30px;
+    }
+    h1 {
+      color: #333;
+    }
+    .card {
+      display: inline-block;
+      width: 120px;
+      height: 180px;
+      border-radius: 10px;
+      background: white;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      margin: 10px;
+      padding-top: 70px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>トレカ交換アプリ</h1>
+  <p>iPadだけで作成中</p>
+
+  <div class="card">★</div>
+  <div class="card">★★</div>
+  <div class="card">★★★</div>
+
+</body>
+</html>
